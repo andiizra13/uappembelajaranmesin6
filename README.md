@@ -1,4 +1,4 @@
-# ✨ sayangi limbah : sayangi limbah adalah Klasifikasi Limbah konvensional Menggunakan InceptionV3 & MobileNetV2 ✨
+# ✨ E-Limbah : E-Limbah adalah Klasifikasi Limbah konvensional Menggunakan InceptionV3 & MobileNetV2 ✨
 
 ## Latar Belakang & Tujuan
 Pengelolaan sampah merupakan tantangan global yang terus meningkat, terutama di negara-negara berkembang, di mana sistem pengelolaan limbah sering kali belum memadai. Sampah yang tidak dikelola dengan baik dapat mencemari lingkungan, merusak ekosistem, dan membahayakan kesehatan manusia. Salah satu solusi penting adalah mendaur ulang sampah seperti plastik, kertas, dan logam, sekaligus memastikan pengelolaan limbah B3 (Bahan Berbahaya dan Beracun) secara aman. Namun, proses klasifikasi sampah sering kali menjadi kendala utama karena metode manual memerlukan banyak waktu dan tenaga, serta rentan terhadap kesalahan.
